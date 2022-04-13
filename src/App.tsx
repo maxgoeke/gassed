@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>gassed</h1>
+      <h1 className="heading">gassed</h1>
       <Form name={`${title}`}/>
     </div>
   );
